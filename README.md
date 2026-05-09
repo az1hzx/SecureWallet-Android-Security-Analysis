@@ -51,7 +51,13 @@ The application simulates a digital wallet system where users can securely manag
 
 
 ## Technologies Used
-
+- JavaScript
+- React Native / Expo
+- Node.js / Express
+- Prisma ORM 
+- SQLite / Database layer
+- Authentication middleware
+- REST API routes
 ### Development
 - Java
 - Android Studio
