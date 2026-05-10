@@ -148,6 +148,38 @@ The project includes:
 
 This project was conducted in a controlled and authorized testing environment for educational and cybersecurity research purposes only. No unauthorized systems or real user data were targeted.
 
+## Application Screenshots
+
+### Login Screen
+![Login](screenshots/Login.jpeg)
+
+### Register Page
+![Register](screenshots/Register%20page.jpeg)
+
+### Homepage
+![Homepage](screenshots/Homepage.jpeg)
+
+### My Cards Page
+![My Cards](screenshots/MyCardsPage.jpeg)
+
+### Profile Page
+![Profile](screenshots/ProfilePage.jpeg)
+
+### Edit Profile Page
+![Edit Profile](screenshots/EditProfilePage.jpeg)
+
+### Change Password Page
+![Change Password](screenshots/ChangePassword.jpeg)
+
+### Settings Page
+![Settings](screenshots/SettingsPage.jpeg)
+
+### Add Card Page
+![Add Card](screenshots/AddCardPage.jpeg)
+
+### Theme Change Page
+![Theme](screenshots/ThemeChangePage.jpeg)
+
 
 
 ## Author
