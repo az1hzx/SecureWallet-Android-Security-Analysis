@@ -154,7 +154,7 @@ This project was conducted in a controlled and authorized testing environment fo
 ![Login](screenshots/Login.jpeg)
 
 ### Register Page
-![Register](screenshots/Register%20page.jpeg)
+![Register](screenshots/RegisterPage.jpeg)
 
 ### Homepage
 ![Homepage](screenshots/Homepage.jpeg)
