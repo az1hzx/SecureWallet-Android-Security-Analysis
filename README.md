@@ -182,6 +182,91 @@ This project was conducted in a controlled and authorized testing environment fo
 
 
 
+---
+
+## Installation & Setup
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+### Backend Setup
+
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+---
+
+## Security Features
+
+- Secure user authentication system
+- Protected API routes using authentication middleware
+- Input validation and error handling
+- Secure password management
+- Client-side storage security analysis
+- Runtime vulnerability testing
+- Secure local storage mitigation techniques
+- Database structure protection using Prisma ORM
+- Session handling and authentication flow management
+
+---
+
+## Tools & Technologies
+
+### Development Technologies
+- JavaScript
+- React Native / Expo
+- Node.js
+- Express.js
+- Prisma ORM
+- SQLite / Database Layer
+
+### Security & Analysis Tools
+- Android Studio
+- Frida
+- JADX
+- Apktool
+- ADB (Android Debug Bridge)
+- SQLite Inspection Tools
+
+### Cybersecurity Concepts
+- Android Client-Side Storage Security
+- Static Analysis
+- Dynamic Analysis
+- Runtime Instrumentation
+- Vulnerability Assessment
+- Secure Storage Practices
+- Mobile Application Security Testing
+
+---
+
+## Project Structure
+
+```text
+SecureWallet-Android-Security-Analysis
+│
+├── frontend/
+├── backend/
+├── screenshots/
+├── README.md
+└── package.json
+```
+
+---
+
+## Author
+
+Azaan Mahar Arfan  
+BSc Cybersecurity & Digital Forensics  
+Kingston University London
+
 ## Author
 
 Azaan Mahar Arfan  
